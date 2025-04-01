@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Script ###
+tfg_sql_script.sql
+
