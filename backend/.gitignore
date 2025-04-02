@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### Script ###
-tfg_sql_script.sql
+sql/*.sql
 
